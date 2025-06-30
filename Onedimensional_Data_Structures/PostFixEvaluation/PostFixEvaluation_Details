@@ -1,0 +1,9 @@
+Да се напише алгоритам кој ќе врши евалуација на израз во постфикс нотација.
+На влез се чита низа од знаци за изразот (стринг), а на излез се печати вредноста на изразот по евалуацијата.
+Име на класата (Java): PostFixEvaluation
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Write an algorithm that will evaluate an expression in postfix notation.
+A sequence of characters for the expression (string) is read at the input, and the value of the expression after evaluation is printed at the output.
+Class Name (Java): PostFixEvaluation
