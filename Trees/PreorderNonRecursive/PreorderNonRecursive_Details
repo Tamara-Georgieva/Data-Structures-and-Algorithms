@@ -1,0 +1,5 @@
+Да се напише функција preorderNonRecursive за нерекурзивно изминување на бинарно стебло во preorder.
+
+---------------------------------------------------------------------------------------------------------
+
+Write a function preorderNonRecursive for non recursive preorder traversal of binary tree. 
